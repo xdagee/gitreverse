@@ -38,7 +38,7 @@ Your patch should follow the same coding conventions and style as the rest of th
 At this point, you should switch back to your master branch and make sure it's up to date with the main repository:
 
 ```sh
-git remote add upstream https://github.com/uvenkatateja/gitreverse.git
+git remote add upstream https://github.com/filiksyos/gitreverse.git
 git checkout main
 git pull upstream main
 ```
